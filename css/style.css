@@ -1,6 +1,7 @@
 
 body {
   background-image: url("worleyNoise.jpg");
+  background-repeat: space;
 }
 
 h1 {
