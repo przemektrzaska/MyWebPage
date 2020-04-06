@@ -16,9 +16,9 @@ h1 {
   margin-left: 40px;
 
 } 
-h2, h3 { font_family:Tahoma, Verdana, Arial;color:#000000;}
-p{text-align: center;}
-em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic;}
+h2, h3 { font_family:Tahoma, Verdana, Arial;color:#000000;margin-left: 40px;}
+p{text-align: center;margin-left: 40px;}
+em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic;margin-left: 40px;}
             a:link { color:#A3B2D3;text-decoration: none;} 
             a:Visited {text-decoration: none;color:#A3B2D3} 
             a:Active {color:#A3B2D3; } 
