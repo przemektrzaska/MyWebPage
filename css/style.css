@@ -22,7 +22,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
             a:link { color:#A3B2D3;text-decoration: none;} 
             a:Visited {text-decoration: none;color:#A3B2D3} 
             a:Active {color:#A3B2D3; } 
-            a:hover {color:#000000;text-decoration: underline;}
+            a:hover {color:#000000;text-decoration: underline;background-color: #ccc;}
            
            	.menu { font-size:14pt;background:#000000;text-align:center; text-shadow: 2px 2px 0 #888;}
             .small{ font-size:x-small; }
@@ -40,7 +40,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
             
             table.sample {
         
-				border-width: 2px;
+				border-width: 0px;
 				border-spacing: 2px;
 				border-style: groove;
 				border-color: black;
@@ -72,8 +72,8 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   border:3px solid;
   border-color:#6f1f1f	;
   background-size: 100% 100%;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
     color: maroon;
 	text-shadow: 3px 4px 3px #000000;
@@ -87,4 +87,35 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   padding-top: 10px;
   padding-bottom: 0px;
   border-top: 1px solid hsla(300, 0%, 52%, .27);
+}
+
+nav a:hover{background-color:#ccc;},
+nav a:focus {
+	color: #036;
+	background-color: #fff;
+	text-decoration: underline;
+}
+nav a:active {
+	color: #fff;
+	background-color: #024;
+	text-decoration: underline;
+}
+nav  {
+	background-color: #ffffff;
+	color: #000;
+	border-bottom: .25em solid #444;
+
+}
+
+
+li:hover{background-color:#ccc;}
+ul {
+  display: block;
+  list-style-type:none;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+  position:absolute;
 }
