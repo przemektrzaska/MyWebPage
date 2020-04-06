@@ -76,4 +76,5 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
     color: maroon;
 	text-shadow: 3px 4px 3px #000000;
+	margin-left: 40px;
 }
