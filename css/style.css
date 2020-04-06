@@ -1,8 +1,9 @@
 
 body {
 	color:#302e52;
-  background-image: url("Annotation 2020-04-04 001526.jpg");
+  background-image: url("Annotation 2020-04-04 0015262.jpg");
   background-repeat: repeat;
+
 }
 
 h1 {
@@ -12,3 +13,50 @@ h1 {
   margin-left: 40px;
 
 } 
+h2, h3 { font_family:Tahoma, Verdana, Arial;color:#000000;}
+p{text-align: center;}
+em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic;}
+            a:link { color:#A3B2D3;text-decoration: none;} 
+            a:Visited {text-decoration: none;color:#A3B2D3} 
+            a:Active {color:#A3B2D3; } 
+            a:hover {color:#000000;text-decoration: underline;}
+           
+           	.menu { font-size:14pt;background:#000000;text-align:center; text-shadow: 2px 2px 0 #888;}
+            .small{ font-size:x-small; }
+            td{padding: 10px; background-color: #ECECEC;}
+            div#wrapper{
+				width: 930px; margin: 0 auto;-webkit-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				-moz-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				-webkit-border-radius: 5px;
+				-moz-border-radius: 5px;
+				border-radius: 5px;
+			}
+            
+            table.sample {
+        
+				border-width: 2px;
+				border-spacing: 2px;
+				border-style: groove;
+				border-color: black;
+				border-collapse: collapse;
+				background-color: white;
+				overflow: hidden;
+				background-color: #ECECEC;
+        
+            }
+            table.sample th {
+				border-width: 0px;
+				padding: 1px;
+				border-style: inset;
+				border-color: gray;
+				background-color: #ECECEC;
+            }
+			table.sample td {
+				border-width: 0px;
+				padding: 1px;
+				border-style: inset;
+				border-color: gray;
+				background-color: #ECECEC;
+        
+            }
