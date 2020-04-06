@@ -7,8 +7,11 @@ body {
 }
 
 h1 {
-	font-family:Tahoma, Verdana, Arial;text-align:center;color:red;text-shadow: 3px 4px 3px #000000;
-					filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
+	font-family:Tahoma, Verdana, Arial;
+	text-align:center;
+	color:red;
+	text-shadow: 3px 4px 3px #000000;
+	filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
   color: maroon;
   margin-left: 40px;
 
@@ -65,8 +68,12 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   border-radius: 25px;
   background: #ffffff;
   padding: 20px;
-  border:1px solid red;
+  border:3px solid;
+  border-color:#6f1f1f	;
   background-size: 100% 100%;
   width: 200px;
   height: 200px;
+  filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
+    color: maroon;
+	text-shadow: 3px 4px 3px #000000;
 }
