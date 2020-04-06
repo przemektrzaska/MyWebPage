@@ -66,4 +66,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   background: #ffffff;
   padding: 20px;
   border:1px solid red;
+  background-size: 100% 100%;
+  width: 200px;
+  height: 200px;
 }
