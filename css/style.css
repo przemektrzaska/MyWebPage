@@ -35,7 +35,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				-moz-border-radius: 5px;
 				border-radius: 5px;
 				background-color: #ffffff;
-				
+
 			}
             
             table.sample {
@@ -78,4 +78,13 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
     color: maroon;
 	text-shadow: 3px 4px 3px #000000;
 	margin-left: 40px;
+}
+.footer {
+  display: block;
+  max-width: 790px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-top: 1px solid hsla(300, 0%, 52%, .27);
 }
