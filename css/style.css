@@ -5,6 +5,9 @@ body {
 }
 
 h1 {
+	font-family:Tahoma, Verdana, Arial;text-align:center;color:red;text-shadow: 3px 4px 3px #000000;
+					filter: dropshadow(color=#EDEBEA, offx=3, offy=4);
   color: maroon;
   margin-left: 40px;
+
 } 
