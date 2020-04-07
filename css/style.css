@@ -34,7 +34,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				-webkit-border-radius: 5px;
 				-moz-border-radius: 5px;
 				border-radius: 5px;
-				background-color: #ffffff;
+				background-color: #ECECEC;
 
 			}
             
@@ -67,7 +67,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
             }
 #borderimg {
   border-radius: 25px;
-  background: #ffffff;
+  background-color: #ECECEC rgba(2, 2, 2, 2);
   padding: 20px;
   border:3px solid;
   border-color:#6f1f1f	;
@@ -78,6 +78,10 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
     color: maroon;
 	text-shadow: 3px 4px 3px #000000;
 	margin-left: 40px;
+	-webkit-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				-moz-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
+				background-color: #ECECEC;
 }
 .footer {
   display: block;
