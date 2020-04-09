@@ -61,7 +61,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
             }
 			table.sample td {
 				border-width: 0px;
-				padding: 1px;
+				padding: 0px;
 				border-style: inset;
 				border-color: gray;
 				background-color: #ECECEC;
@@ -98,7 +98,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 nav a:hover{background-color:#ccc;},
 nav a:focus {
 	color: #036;
-	background-color: #fff;
+	background-color: #ff0000;
 	text-decoration: underline;
 }
 nav a:active {
@@ -107,7 +107,7 @@ nav a:active {
 	text-decoration: underline;
 }
 nav  {
-	background-color: #ffffff;
+	background-color: #ff0000;
 	color: #000;
 	border-bottom: .25em solid #444;
 
