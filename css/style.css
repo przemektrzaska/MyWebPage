@@ -41,21 +41,23 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
             table.sample {
         
 				border-width: 0px;
-				border-spacing: 2px;
+				border-spacing: 0px;
 				border-style: groove;
 				border-color: black;
 				border-collapse: collapse;
 				background-color: white;
 				overflow: hidden;
 				background-color: #ECECEC;
+				margin: 0 auto;
         
             }
             table.sample th {
 				border-width: 0px;
-				padding: 1px;
+				padding: 4px;
 				border-style: inset;
 				border-color: gray;
-				background-color: #ECECEC;
+				background-color: #ccc;
+				border-left: none;
             }
 			table.sample td {
 				border-width: 0px;
@@ -120,7 +122,7 @@ ul {
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
-  padding-left: 40px;
+  padding-left: 0px;
   position:relative;
   margin: 0 auto;-webkit-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
 				-moz-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
@@ -128,5 +130,5 @@ ul {
 				-webkit-border-radius: 5px;
 				-moz-border-radius: 5px;
 				border-radius: 5px;
-				background-color: #ECECEC;
+				
 }
