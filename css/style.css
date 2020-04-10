@@ -47,16 +47,17 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				border-collapse: collapse;
 				background-color: white;
 				overflow: hidden;
-				background-color: #ECECEC;
+				background-color: #F5F5DC;
 				margin: 0 auto;
         
             }
             table.sample th {
 				border-width: 0px;
 				padding: 4px;
-				border-style: inset;
-				border-color: gray;
-				background-color: #ccc;
+				border-style: initial;
+				border-color: black;
+				background-color: #F5F5DC;
+				background-image: url("Annotation 2020-04-04 0015262.jpg");
 				border-left: none;
 				-webkit-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
 				-moz-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
@@ -67,7 +68,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				padding: 0px;
 				border-style: inset;
 				border-color: gray;
-				background-color: #ECECEC;
+				background-color: #F5F5DC;
         
             }
 #borderimg {
@@ -98,7 +99,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
   border-top: 1px solid hsla(300, 0%, 52%, .27);
 }
 
-nav a:hover{background-color:#ccc;},
+nav a:hover{background-color:#F5F5DC;},
 nav a:focus {
 	color: #036;
 	background-color: #ff0000;
@@ -117,7 +118,7 @@ nav  {
 }
 
 
-li:hover{background-color:#ccc;}
+li:hover{background-color:#F5F5DC;}
 ul {
   display: block;
   list-style-type:none;
