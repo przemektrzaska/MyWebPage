@@ -19,8 +19,8 @@ h1 {
 h2, h3 { font_family:Tahoma, Verdana, Arial;color:#000000;margin-left: 40px;}
 p{text-align: center;margin-left: 40px;}
 em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic;margin-left: 40px;}
-            a:link { color:#A3B2D3;text-decoration: none;} 
-            a:Visited {text-decoration: none;color:#A3B2D3} 
+            a:link { color:maroon;text-decoration: none;} 
+            a:Visited {text-decoration: none;color:	#5378ca} 
             a:Active {color:#A3B2D3; } 
             a:hover {color:#000000;text-decoration: underline;background-color: #ccc;}
            
@@ -47,7 +47,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				border-collapse: collapse;
 				background-color: white;
 				overflow: hidden;
-				background-color: #F5F5DC;
+				background-color: #fff;
 				margin: 0 auto;
         
             }
@@ -56,7 +56,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				padding: 4px;
 				border-style: initial;
 				border-color: black;
-				background-color: #F5F5DC;
+				background-color: #fff;
 				background-image: url("Annotation 2020-04-04 0015262.jpg");
 				border-left: none;
 				-webkit-box-shadow: 1px 1px 2px 2px rgba(2, 2, 2, 2);
@@ -68,7 +68,7 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 				padding: 0px;
 				border-style: inset;
 				border-color: gray;
-				background-color: #F5F5DC;
+				background-color: #fff;
         
             }
 #borderimg {
