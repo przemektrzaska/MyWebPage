@@ -20,8 +20,8 @@ h2, h3 { font_family:Tahoma, Verdana, Arial;color:#000000;margin-left: 40px;}
 p{text-align: center;margin-left: 40px;}
 em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic;margin-left: 40px;}
             a:link { color:maroon;text-decoration: none;} 
-            a:Visited {text-decoration: none;color:	#27ae60} 
-            a:Active {color:#5378ca; } 
+            a:visited {text-decoration: none;color:	#0e948d} 
+            a:Active {color:#0e948d; } 
             a:hover {color:#000000;text-decoration: underline;background-color: #ccc;}
            
            	.menu { font-size:14pt;background:#000000;text-align:center; text-shadow: 2px 2px 0 #888;}
@@ -101,13 +101,13 @@ em{font-family:"Maskenball04", Georgia, serif;font-weight:bold;font-style:italic
 
 nav a:hover{background-color:#F5F5DC;},
 nav a:focus {
-	color: #036;
-	background-color: #ff0000;
+	color: #0e948d;
+	background-color: #0e948d;
 	text-decoration: underline;
 }
 nav a:active {
-	color: #fff;
-	background-color: #024;
+	color: #27ae60;
+	background-color: #27ae60;
 	text-decoration: underline;
 }
 nav  {
